@@ -1,4 +1,4 @@
-# Welcome to QuickState_Convert!
+# Welcome to [QuickState_Convert](https://github.com/Jon-117/QuickState_Convert)!
 
 QuickState_Convert is designed to simplify your workflow by automatically converting US State names in your clipboard to their abbreviations. Here’s how to get started:
 
@@ -16,6 +16,6 @@ To stop the program, you can close this window or find its icon in the system tr
 
 ## Tips for Best Performance
 - Ensure QuickState_Convert is running in the background for automatic conversion.
-- If you encounter any issues, restart the program or submit an issue on github!
+- If you encounter any issues, restart the program or submit an issue on [github](https://github.com/Jon-117/QuickState_Convert/issues)!
 
 Thank you for choosing QuickState_Convert. Enjoy streamlined state string conversions!
